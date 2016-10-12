@@ -122,6 +122,12 @@ LiquidM uses Druid for real-time drill-down reporting. LiquidM is also contribut
 
 * [Reporting at LiquidM](http://liquidm.com/reporting-at-liquidm/)
 
+## Marchex
+
+Marchex uses Druid to provide data for Marchex Call Analytics' new customer facing Speech Analytics dashboards.
+Druid's fast aggregation is critical for providing deep insights into call performance for its customers, 
+enabling them to spot trends and improve performance of both marketing campaigns and call centers.
+
 ## Metamarkets
 
 Druid is the primary data store for Metamarkets’ full stack visual analytics
@@ -154,6 +160,12 @@ They use Druid to pinpoint anomalies within their infrastructure, endpoint
 activity and content flow.
 
 * [Announcing Suro: Backbone of Netflix's Data Pipeline](http://techblog.netflix.com/2013/12/announcing-suro-backbone-of-netflixs.html)
+
+## Netsil
+
+Netsil is an observability and analytics company for modern cloud applications. The Netsil Application Operations Center (AOC) uses Druid for real-time queries on sharded data along with support for dynamic and multi-valued attributes. The AOC processes live service interactions in large-scale production applications and also stores massive amounts of historical metrics data. Druid was able to support these and several other AOC requirements allowing the AOC to be scalable and fault-tolerant.
+
+You can learn more about the AOC at http://netsil.com/download/
 
 ## OneAPM
 
@@ -229,6 +241,10 @@ Streamlyzer uses Druid as a next generation online video analytics for online vi
 
 Sugo is a company that focus on realtime multi-dimension analytics and mining on big data. We build our platform based on Druid, and developed our own extensions to make it more powerful.
 
+## Tencent
+
+Tencent SCRM product use Druid for custumer behavior analysis.
+
 ## Time Warner Cable
 
 TWC uses Druid for exploratory analytics.
@@ -237,7 +253,7 @@ TWC uses Druid for exploratory analytics.
 
 TripleLift uses Druid to provide insights into performance aspects of its native programmatic exchange for sales/business development opportunities, and to provide reporting used by advertisers and publishers.
 
-##VideoAmp
+## VideoAmp
 
 At VideoAmp, Druid is a key component of our Big Data stack. It powers our real-time video advertising analytics at low granularity and huge scale. Druid has helped us minimized the time between event, insight and action.
 
